@@ -1,0 +1,1 @@
+Source: https://github.com/powzix/ooz (commit 0503806), unmodified. GPL-3.0.
